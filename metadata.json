@@ -1,0 +1,5 @@
+{
+  "name": "Anna - Your Language Friend",
+  "description": "A friendly AI companion for language practice with an expressive animated avatar and dynamic topic management.",
+  "requestFramePermissions": ["microphone"]
+}
